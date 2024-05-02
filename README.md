@@ -1,3 +1,4 @@
+
 # ** Enterprise Teams - Private Beta ** 
 
 Welcome to the Enterprise Teams Private Beta. 🎉 
@@ -40,7 +41,7 @@ _Discussion Categories:_ <!-- Change out repo name below -->
 - #### 💬 [General](https://github.com/github-early-access/enterprise-teams-private-beta/discussions/categories/general)
 
 
-## 🗒️ Notes on <!-- FEATURE NAME --> & Getting Started
+## 🗒️ Notes on Enterprise Teams & Getting Started
 
 We are excited to announce Enteprise teams; a feature to simplify team management at the Enterprise level. Enterprise teams is one of the most popular requests from our Enterprise customers and this private beta is our first iteration in addressing this much requested customer need.
 
@@ -51,6 +52,23 @@ We are excited to announce Enteprise teams; a feature to simplify team managemen
 #### ⚙️ [Creating FEATURE NAME](add-link-here.md) 
 #### 📦 [Using FEATURE NAME](add-link-here.md)
 ####  🎥 An Intro to FEATURE NAME -->
+
+## Getting Started 
+1. Navigate to your `Enteprise settings` and select `People` > `Enterprise Teams`
+
+<img width="379" alt="image" src="https://github.com/github-early-access/enterprise-teams-private-beta/assets/9662209/99d111bc-951e-4401-902d-5c28e135a2f9">
+
+
+2. Select `New Enterprise Team`
+
+<img width="695" alt="image" src="https://github.com/github-early-access/enterprise-teams-private-beta/assets/9662209/c40c98fa-4067-4936-b34f-55ba180a89c7">
+
+
+3. Add team name and select `make team name avaialble in all organizations`
+
+<img width="694" alt="image" src="https://github.com/github-early-access/enterprise-teams-private-beta/assets/9662209/7fd44645-4660-4292-90cc-6e0029fa783e">
+
+
 
 ## ❓ FAQs
 
