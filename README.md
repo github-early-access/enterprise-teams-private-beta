@@ -56,8 +56,8 @@ We are excited to announce Enteprise teams; a feature to simplify team managemen
 
 
 * What is an ideal Enterprise for the private beta? 
-     - EMU customer with GHAS licensces
-     - Enterprises with 2 or more orgs will find the most value from the private beta. 
+     - EMU customers
+     - GHEC customers with 2 or more orgs will find the most value from the private beta. 
 
 * How will I know when they have access to the feature?  
      - The product team or your account representative will notify the you. 
