@@ -1,6 +1,6 @@
-# ** FEATURE NAME - Alpha/Private Beta/Technical Preview (edit template for full text) ** 
+# ** Enterprise Teams - Private Beta ** 
 
-Welcome to the <!-- ALPHA/PRIVATE BETA/TECHNICAL PREVIEW of FEATURE NAME --> . 🎉 
+Welcome to the Enterprise Teams Private Beta. 🎉 
 <!--
     ✏️ Optional: Customize the content below to let your community know what you intend to use Discussions for.
 -->
@@ -23,34 +23,26 @@ As per [GitHub's Terms of Service](https://docs.github.com/en/github/site-policy
 
 ## 🔗 How to Use this Repository
 
-We will be using this repository to centralize **early** feedback on <!--  FEATURE NAME -->.
+We will be using this repository to centralize **early** feedback on Enterprise teams.
 
 You can use this repository to file issues to:
 - Up-vote a feature or request a new one.
 - Search for existing issues already reported for potential workarounds.
 - File a bug report.
 
-## **[Discussions](https://github.com/gh-community/REPO-NAME/discussions)** 
+## **[Discussions](https://github.com/github-early-access/enterprise-teams-private-beta/discussions)** 
 
 Discussions should be used as much as possible for questions, ideas, and open discussions with other folks in the preview. <!-- Change out repo name in discussions link -->
 
 _Discussion Categories:_ <!-- Change out repo name below -->
-- #### 💡 [I have a suggestion](https://github.com/gh-community/REPO-NAME/discussions/categories/ideas)
-- #### ❓ [I have a question](https://github.com/gh-community/REPO-NAME/discussions/categories/q-a)
-- #### ✏️ [I have something else to discuss](https://github.com/gh-community/REPO-NAME/discussions/categories/general)
+- #### 💡 [Sugesttions](https://github.com/github-early-access/enterprise-teams-private-beta/discussions/categories/ideas)
+- #### ❓ [Questions](https://github.com/github-early-access/enterprise-teams-private-beta/discussions/categories/questions)
+- #### 💬 [General](https://github.com/github-early-access/enterprise-teams-private-beta/discussions/categories/general)
 
-## **[Issues](https://github.com/gh-community/REPO-NAME/issues)**
-
-Issues should be used for bug reports. <!-- Change out repo name in issues link -->
-
-_Issue Category:_ <!-- Change out repo name -->
-- #### 🐞 [I found a bug](https://github.com/gh-community/REPO-NAME/issues/new?assignees=&labels=bug&template=bug-template.yml)
-
-## **Releases** 
-
-Releases will be used to publish changelogs / blog posts that you can subscribe to updates. <!-- Remove if you don't plan on publishing changelogs for this feature within the preview window -->
 
 ## 🗒️ Notes on <!-- FEATURE NAME --> & Getting Started
+
+We are excited to announce Enteprise teams; a feature to simplify team management at the Enterprise level. Enterprise teams is one of the most popular requests from our Enterprise customers and this private beta is our first iteration in addressing this much requested customer need.
 
 <!-- Include summary / details of feature here. This section should include steps to access the feature, and may include additional instructional materials such as a demo video or link out to feature documentation. -->
 
@@ -60,9 +52,23 @@ Releases will be used to publish changelogs / blog posts that you can subscribe 
 #### 📦 [Using FEATURE NAME](add-link-here.md)
 ####  🎥 An Intro to FEATURE NAME -->
 
-## ❓ FAQ 
+## ❓ FAQs
 
-<summary>Click to expand 👇</summary>
 
-<!-- Include FAQ here -->
+* What is an ideal Enterprise for the private beta? 
+     - EMU customer with GHAS licensces
+     - Enterprises with 2 or more orgs will find the most value from the private beta. 
+
+* How will I know when they have access to the feature?  
+     - The product team or your account representative will notify the you. 
+
+* Are GHES Enterprises eligible for the private beta?
+    - GHES customers will be onboarded to the private beta in July after the next major 
+GHES release.
+
+* How can I provide feedback?
+     - We'll collect feedback through a dedicated discussion board [link coming soon], surveys, and follow up calls.
+
+* If there are any issues, how do I get support? 
+     - You can report bugs by creating an issue or contacting your account representative. 
 
