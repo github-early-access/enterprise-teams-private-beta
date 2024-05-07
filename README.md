@@ -69,6 +69,9 @@ We are excited to announce Enteprise teams; a feature to simplify team managemen
 
 <img width="716" alt="image" src="https://github.com/github-early-access/enterprise-teams-private-beta/assets/9662209/bd19e2f8-2aeb-40d9-b8e6-d2e72cecde72">
 
+4. For non-EMU users, you can add team members by selecting the team and selecing `Add a member`
+   <img width="1063" alt="image" src="https://github.com/github-early-access/enterprise-teams-private-beta/assets/9662209/119460d2-df54-483b-866d-1e976ce50b16">
+
 
 
 
