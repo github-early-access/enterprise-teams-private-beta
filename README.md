@@ -61,12 +61,14 @@ We are excited to announce Enteprise teams; a feature to simplify team managemen
 
 2. Select `New Enterprise Team`
 
-<img width="695" alt="image" src="https://github.com/github-early-access/enterprise-teams-private-beta/assets/9662209/c40c98fa-4067-4936-b34f-55ba180a89c7">
+<img width="726" alt="image" src="https://github.com/github-early-access/enterprise-teams-private-beta/assets/9662209/195b25f1-fb13-4800-8dfa-eeeb879312e7">
 
 
-3. Add team name and select `make team name avaialble in all organizations`
+3. Add team name and select `make team name avaialble in all organizations`. 
+(OPTIONAL) You can also sync to an identity provider (IDP) group if you one exits
 
-<img width="694" alt="image" src="https://github.com/github-early-access/enterprise-teams-private-beta/assets/9662209/7fd44645-4660-4292-90cc-6e0029fa783e">
+<img width="716" alt="image" src="https://github.com/github-early-access/enterprise-teams-private-beta/assets/9662209/bd19e2f8-2aeb-40d9-b8e6-d2e72cecde72">
+
 
 
 
